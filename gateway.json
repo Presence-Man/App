@@ -1,5 +1,6 @@
 {
 	"protocol": "https://",
 	"address": "presence-man.com",
+	"usual_port": 15151,
 	"port": null
 }
