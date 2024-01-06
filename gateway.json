@@ -1,5 +1,6 @@
 {
 	"protocol": "https://",
+	"ip": "37.114.55.239",
 	"address": "presence-man.com",
 	"usual_port": 15151,
 	"port": null
